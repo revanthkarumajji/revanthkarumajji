@@ -39,8 +39,9 @@ Data Analyst with hands-on experience in Exploratory Data Analysis (EDA), SQL, P
 * **Data Analytics Engineer (Capstone)** @ *Human Cyber Performance Tech LLC*
     * Engineered a local GraphRAG pipeline for legal regulatory analysis.
 * **Student Assistant (Data Support)** @ *George Mason University*
+    *	Built a Deep Learning chatbot using TensorFlow and Elasticsearch to accelerate research productivity for students and faculty.
     * Developed dashboards in **Tableau** and **Power BI** and built AI chatbots for research efficiency.
-* **Data Engineer** @ *Mega Thermal Spray Pvt. Ltd.*
+* **Associate Data Analyst** @ *Mega Thermal Spray Pvt. Ltd.*
     * Built real-time IIoT pipelines and monitoring platforms for manufacturing compliance.
 * **Project Trainee** @ *R.I.N.L Steel Plant*
     * Optimized biofuel yield using regression modeling and statistical analysis ($R^2 > 0.95$).
